@@ -1,3 +1,6 @@
+In this project we are creating,inserting and querying data using SQL.
+Also includes Joins, Nested queries, updating rows, group by and distinct.
+
 Table - person<br><br>
 
 Instructions<br>
