@@ -263,7 +263,6 @@ Where album_id IN (<br>
 		)<br>
 	)<br>
 	
-<br><br><br>
 UPDATING ROWS<br><br>
 
 1. Find all customers with fax numbers and set those numbers to null.<br>
